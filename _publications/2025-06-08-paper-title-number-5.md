@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Large Language Models for Operation Research Problems: A survey"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'Large Language Models for Operation Research Problems: A survey'
 date: 2024-02-17
 # venue: 'GitHub Journal of Bugs'  
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; 1(3).'
+# citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; 1(3).'
 ---
 
