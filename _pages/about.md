@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhiyuan ZHANG"
+title: "Zhiyuan Zhang"
 author_profile: true
 redirect_from: 
   - /about/
