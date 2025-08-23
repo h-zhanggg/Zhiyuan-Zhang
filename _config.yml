@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhiyuan ZHANG / Holly"
+title                    : "Zhiyuan Zhang / Holly"
 title_separator          : "-"
-name                     : &name "Zhiyuan ZHANG"
+name                     : &name "Zhiyuan Zhang"
 description              : &description "a PhD student from UCLA"
 url                      : "https://h-zhanggg.github.io/Zhiyuan-Zhang" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "h-zhanggg/Zhiyuan-Zhang"
 author:
   # Biographic information
   avatar           : "zzy.png"
-  name             : "Zhiyuan ZHANG"
+  name             : "Zhiyuan Zhang"
   pronouns         : # example: "she/her"  
   bio              : "A PhD student from UCLA"
   # location         : "Hong Kong, China"
