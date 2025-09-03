@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhiyuan ZHANG"
+title: "Zhiyuan Zhang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -26,7 +26,7 @@ I am an incoming PhD student of UCLA, major in Computer Science
 - Research Assistant, Supervisor: Prof. CHOW Alan, Nvidia Deep Learning Institute	
 
 5. Solar Panel System	
-- Core Member of Computing Team, Supervisor: Prof. Grace Ngai, Habitat Green in East Africa
+- Core Member of Computing Team, Supervisor: [Prof. Grace Ngai](https://web.comp.polyu.edu.hk/csgngai/), Habitat Green in East Africa
 
 
 # Education
@@ -40,6 +40,7 @@ BSc (Hons) Scheme in Computing
 ### [Chalmers University of Technology, Sweden](https://www.chalmers.se/en/)
 Exchange Program
 - Accomplished 5 graduate-level courses
+- 2024 Adlerbert Foreign Student Hospitality Foundation Scholarship
 
 
 ### [University of Cambridge, the United Kingdom](https://www.cam.ac.uk/)
@@ -66,10 +67,4 @@ Core Member
 
 # Skills
 Python, Java, R, SQL, JavaScript, C, C++, C#
-
----
-
-# Language
-- English 
-- Chinese
 
