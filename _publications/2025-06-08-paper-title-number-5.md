@@ -1,5 +1,5 @@
 ---
-title: "Large Language Models for Operation Research Problems: A survey"
+title: "A survey"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4

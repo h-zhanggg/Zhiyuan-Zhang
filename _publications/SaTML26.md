@@ -1,5 +1,5 @@
 ---
-title: "SaTML26"
+title: "Privacy-Preserving RAG with DP"
 collection: publications
 category: conferences
 permalink: /publication/SaTML26
