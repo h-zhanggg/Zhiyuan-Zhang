@@ -30,6 +30,11 @@ I am an incoming PhD student of UCLA, major in Computer Science
 
 
 # Education
+
+### [University of California, Los Angeles](https://www.ucla.edu/)
+PhD student in Computer Science
+
+
 ### [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
 BSc (Hons) Scheme in Computing
 - Dean's Honours List of Outstanding Student in the 2022/23 Academic Year
