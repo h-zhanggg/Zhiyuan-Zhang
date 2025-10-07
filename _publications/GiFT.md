@@ -10,3 +10,4 @@ excerpt: 'This paper is about GiFT.'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; 1(3).'
 ---
 
+Gabor-Filtered Position-Focused Transformer for Neural Operator Learning
