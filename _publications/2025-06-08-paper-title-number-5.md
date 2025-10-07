@@ -1,5 +1,5 @@
 ---
-title: "A survey"
+title: "Survey"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
