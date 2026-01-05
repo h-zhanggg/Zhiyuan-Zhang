@@ -39,6 +39,10 @@ Summer School
 ---
 
 # Extracurricular activities
+
+### [UCLA Sailing Team](https://www.instagram.com/uclasailingteam/)          
+Core Member 
+
 ### Hong Kong, China Rowing Association             
 Core Member 
 
