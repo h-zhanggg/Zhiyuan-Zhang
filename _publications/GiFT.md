@@ -1,7 +1,7 @@
 ---
 title: "GiFT"
 collection: publications
-category: conferences
+category: preprints
 permalink: /publication/GiFT
 excerpt: 'Gabor-Filtered Position-Focused Transformer for Neural Operator Learning'
 # date: 2024-02-17
