@@ -1,7 +1,7 @@
 ---
 title: "Survey"
 collection: publications
-category: conferences
+category: preprints
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Large Language Models for Operation Research Problems: A survey'
 # date: 2024-02-17
