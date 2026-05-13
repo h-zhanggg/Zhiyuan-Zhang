@@ -1,5 +1,5 @@
 ---
-title: "Survey"
+title: "Tourist Mobility Modeling"
 collection: publications
 category: conferences
 permalink: /publication/2026-tourist

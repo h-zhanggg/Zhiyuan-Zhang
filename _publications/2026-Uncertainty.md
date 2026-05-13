@@ -1,5 +1,5 @@
 ---
-title: "Survey"
+title: "Trip Purpose Inference"
 collection: publications
 category: conferences
 permalink: /publication/2026-Uncertainty
