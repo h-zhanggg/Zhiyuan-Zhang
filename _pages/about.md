@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a PhD student of UCLA, major in Computer Science
-- advised by [Prof. Tian](https://www.ytian.info/) and [Prof. Ma](https://mobility-lab.seas.ucla.edu/about/)
+- advised by [Prof. Ma](https://mobility-lab.seas.ucla.edu/about/) and [Prof. Tian](https://www.ytian.info/)
 
 ---
 
@@ -35,25 +35,6 @@ Exchange Program
 Summer School
 - Studied mathematics for engineering
 
-
----
-
-# Extracurricular activities
-
-### [UCLA Sailing Team](https://www.instagram.com/uclasailingteam/)          
-Core Member 
-
-### Hong Kong, China Rowing Association             
-Core Member 
-
-### 26th HEARTFIRE Team, The Education Service Platform
-Volunteer Teacher
-
-### PolyU Toastmasters Club
-Vice President 
-
-### Google Developer Student Club, PolyU         
-Core Member 
 
 ---
 
