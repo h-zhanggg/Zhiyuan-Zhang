@@ -1,7 +1,7 @@
 ---
 title: "Trip Purpose Inference"
 collection: publications
-category: preprint
+category: preprints
 permalink: /publication/2026-Uncertainty
 excerpt: 'Uncertainty-Aware Trip Purpose Inference from GPS Trajectories via POI Semantic Zones and Pareto Calibration'
 # date: 2024-02-17
