@@ -1,7 +1,7 @@
 ---
 title: "Tourist Mobility Modeling"
 collection: publications
-category: preprint
+category: preprints
 permalink: /publication/2026-tourist
 paperurl: 'https://arxiv.org/pdf/2605.29578'
 excerpt: 'GPS-Enhanced Tourist Mobility Modeling with Seasonal Spatial Priors and LLM-Based Activity Chain Generation'
