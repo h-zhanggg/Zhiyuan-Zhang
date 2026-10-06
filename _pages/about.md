@@ -34,8 +34,16 @@ Exchange Program
 ### [University of Cambridge, the United Kingdom](https://www.cam.ac.uk/)
 Summer School
 
-
 ---
+<!-- 
+# Selected Papers 
+Private-RAG: Answering Multiple Queries with LLMs while Keeping Your Data Private
+Ruihan Wu, Erchi Wang, *Zhiyuan Zhang*, Yu-Xiang Wang
+[COLM 2026](https://openreview.net/pdf?id=oenmsPGLM9)
+A multi-query DP-RAG framework with per-document privacy accounting that reduces the privacy budget by up to 100× compared to single-query DP composition, with improved utility.
+---
+-->
+
 
 # Skills
 **Programming**: Python, C++, Java, SQL, R, JavaScript, C
