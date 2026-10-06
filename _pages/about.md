@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student of UCLA, major in Computer Science
-- advised by [Prof. Ma](https://mobility-lab.seas.ucla.edu/about/) and [Prof. Tian](https://www.ytian.info/)
+I am a PhD student of UCLA, major in Computer Science advised by [Prof. Ma](https://mobility-lab.seas.ucla.edu/about/) and [Prof. Tian](https://www.ytian.info/)
+
+My previous research includes Differential Privacy for LLM-based RAG systems, Diffusion Transformer for synthetic trajectories.
 
 ---
 
@@ -27,17 +28,17 @@ BSc (Hons) Scheme in Computing
 
 ### [Chalmers University of Technology, Sweden](https://www.chalmers.se/en/)
 Exchange Program
-- Accomplished 5 graduate-level courses
 - 2024 Adlerbert Foreign Student Hospitality Foundation Scholarship
 
 
 ### [University of Cambridge, the United Kingdom](https://www.cam.ac.uk/)
 Summer School
-- Studied mathematics for engineering
 
 
 ---
 
 # Skills
-Python, Java, R, SQL, JavaScript, C, C++, C#
-
+Programming: Python, C++, Java, SQL, R, JavaScript, C
+ML/AI: Transformers, Diffusion Models, Diffusion Transformers (DiT), Neural Operators, PyTorch, TensorFlow
+LLM & Retrieval: Retrieval-Augmented Generation (RAG), Dense Passage Retrieval (DPR), LLM Evaluation
+Model Optimization & Deployment: 4-bit Quantization (Hugging Face), ONNX, TensorRT
