@@ -38,7 +38,10 @@ Summer School
 ---
 
 # Skills
-Programming: Python, C++, Java, SQL, R, JavaScript, C
-ML/AI: Transformers, Diffusion Models, Diffusion Transformers (DiT), Neural Operators, PyTorch, TensorFlow
-LLM & Retrieval: Retrieval-Augmented Generation (RAG), Dense Passage Retrieval (DPR), LLM Evaluation
-Model Optimization & Deployment: 4-bit Quantization (Hugging Face), ONNX, TensorRT
+**Programming**: Python, C++, Java, SQL, R, JavaScript, C
+
+**ML/AI**: Transformers, Diffusion Models, Diffusion Transformers (DiT), Neural Operators, PyTorch, TensorFlow
+
+**LLM & Retrieval**: Retrieval-Augmented Generation (RAG), Dense Passage Retrieval (DPR), LLM Evaluation
+
+**Model Optimization & Deployment**: 4-bit Quantization (Hugging Face), ONNX, TensorRT
