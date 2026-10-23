@@ -21,7 +21,7 @@ My research focuses on **privacy-preserving large language models**, especially 
 # 📝 Publications
 {: .section-header #publications}
 
-<p class="section-note">* equal contribution. See also my <a href="{{ site.author.googlescholar }}">Google Scholar</a> profile.</p>
+<!-- <p class="section-note">* equal contribution. See also my <a href="{{ site.author.googlescholar }}">Google Scholar</a> profile.</p> -->
 
 {% assign selected_pubs = site.publications | where: "selected", true | sort: "date" | reverse %}
 {% for post in selected_pubs %}
