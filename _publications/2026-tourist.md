@@ -9,6 +9,6 @@ venue: 'IEEE Intelligent Transportation Systems Conference (ITSC), 2026'
 badge: "ITSC'26"
 authors: 'Yifan Liu*, Yanling Sang*, Xishun Liao, Morgan Sun, Bo Yang, Zhiyuan Zhang, Chris Stanford, Haoxuan Ma, Jiaqi Ma'
 teaser: 'papers/tourist-mobility.png'
-selected: true
+selected: False
 paperurl: 'https://arxiv.org/abs/2605.29578'
 ---

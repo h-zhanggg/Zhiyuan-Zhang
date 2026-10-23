@@ -9,6 +9,6 @@ venue: 'IEEE Intelligent Transportation Systems Conference (ITSC), 2026'
 badge: "ITSC'26"
 authors: 'Bo Yang*, Haoxuan Ma*, Yifan Liu, Zhiyuan Zhang, Chris Stanford, Morgan Sun, Jiaqi Ma'
 teaser: 'papers/trip-purpose.png'
-selected: true
+selected: False
 paperurl: 'https://arxiv.org/abs/2605.01257'
 ---
