@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-👋 Hi! I am a Ph.D. student in **Computer Science** at the **University of California, Los Angeles (UCLA)**, advised by [Prof. Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/) and [Prof. Yuan Tian](https://www.ytian.info/). Before UCLA, I obtained B.Sc. degree at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
+👋 Hi! I am a Ph.D. student in **Computer Science** at the **University of California, Los Angeles (UCLA)**, advised by [Prof. Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/) and [Prof. Yuan Tian](https://www.ytian.info/). Before UCLA, I obtained a B.Sc. degree from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
 
 My research focuses on **privacy-preserving large language models**, especially **differentially private retrieval-augmented generation (RAG)**. I have also worked on **human mobility modeling** from GPS trajectories with LLMs, **diffusion transformers** for synthetic trajectory generation.
 
