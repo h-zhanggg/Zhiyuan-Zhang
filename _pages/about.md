@@ -48,7 +48,7 @@ My research focuses on **privacy-preserving large language models**, especially 
 {: .dated-list}
 
 
-# 💻 Teaching
+# 👩‍🏫 Teaching
 {: .section-header #teach}
 
 - **2026** TA of CEE 181/281 Traffic Engineering Systems, UCLA
