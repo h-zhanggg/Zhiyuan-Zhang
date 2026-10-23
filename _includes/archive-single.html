@@ -60,7 +60,7 @@
     
     {% if post.citation or post.paperurl or post.slidesurl or post.bibtexurl %}
       <p>
-        {% if post.citation %}{{ post.citation }}<br />{% endif %}
+        {% if post.citation %}{{ post.citation | replace: 'Zhang, Z.', '<strong>Zhang, Z.</strong>' }}<br />{% endif %}
         {% if post.paperurl %}<a href="{{ post.paperurl }}" title="Paper"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i><span class="sr-only">Paper</span></a>{% endif %}
         {% if post.slidesurl %}<a href="{{ post.slidesurl }}" title="Slides"><i class="fas fa-fw fa-person-chalkboard" aria-hidden="true"></i><span class="sr-only">Slides</span></a>{% endif %}
         {% if post.bibtexurl %}<a href="{{ post.bibtexurl }}" title="BibTeX"><i class="fas fa-fw fa-quote-right" aria-hidden="true"></i><span class="sr-only">BibTeX</span></a>{% endif %}
