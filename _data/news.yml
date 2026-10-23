@@ -1,0 +1,24 @@
+# News shown on the homepage, newest first.
+# `text` is Markdown; `highlight: true` gives the item an accent bar.
+
+- date: "2026.10"
+  emoji: "📝"
+  text: "Released my survey [From One Query to Many: A Critical Survey of Privacy Accounting in RAG](https://arxiv.org/abs/2610.21245) on arXiv."
+
+- date: "2026.10"
+  emoji: "🎉"
+  highlight: true
+  text: "[Private-RAG](https://openreview.net/forum?id=oenmsPGLM9) appeared at **COLM 2026** in San Francisco!"
+
+- date: "2026.05"
+  emoji: "🎉"
+  highlight: true
+  text: "2 papers accepted to **IEEE ITSC 2026**: [Trip Purpose Inference](https://arxiv.org/abs/2605.01257) and [Tourist Mobility Modeling](https://arxiv.org/abs/2605.29578)!"
+
+- date: "2025.11"
+  emoji: "📄"
+  text: "[Private-RAG: Answering Multiple Queries with LLMs while Keeping Your Data Private](https://arxiv.org/abs/2511.07637) is on arXiv."
+
+- date: "2024.12"
+  emoji: "📄"
+  text: "[Privacy-Preserving RAG with Differential Privacy](https://arxiv.org/abs/2412.04697) is on arXiv."

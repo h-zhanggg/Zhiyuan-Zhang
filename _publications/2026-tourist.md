@@ -1,13 +1,14 @@
 ---
-title: "Tourist Mobility Modeling"
+title: "GPS-Enhanced Tourist Mobility Modeling with Seasonal Spatial Priors and LLM-Based Activity Chain Generation"
 collection: publications
 category: conferences
 permalink: /publication/2026-tourist
-excerpt: 'GPS-Enhanced Tourist Mobility Modeling with Seasonal Spatial Priors and LLM-Based Activity Chain Generation'
-# date: 2024-02-17
-venue: 'IEEE ITSC'  
+excerpt: 'A four-stage framework that generates individual tourist itineraries from month-conditioned GPS spatial priors and LLM-based activity chains, producing synthetic schedules for Tokyo that align with survey and staypoint visitation patterns.'
+date: 2026-05-28
+venue: 'IEEE Intelligent Transportation Systems Conference (ITSC), 2026'
 badge: "ITSC'26"
-paperurl: 'https://arxiv.org/pdf/2605.29578'
-# citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; 1(3).'
+authors: 'Yifan Liu*, Yanling Sang*, Xishun Liao, Morgan Sun, Bo Yang, Zhiyuan Zhang, Chris Stanford, Haoxuan Ma, Jiaqi Ma'
+teaser: 'papers/tourist-mobility.png'
+selected: true
+paperurl: 'https://arxiv.org/abs/2605.29578'
 ---
-

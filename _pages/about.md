@@ -1,55 +1,70 @@
 ---
 permalink: /
-title: "Zhiyuan Zhang"
+title: "Zhiyuan Zhang (Holly)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD student of UCLA, major in Computer Science advised by [Prof. Ma](https://mobility-lab.seas.ucla.edu/about/) and [Prof. Tian](https://www.ytian.info/)
+{% include base_path %}
 
-My previous research includes Differential Privacy for LLM-based RAG systems, Diffusion Transformer for synthetic trajectories.
+👋 Hi! I am a Ph.D. student in **Computer Science** at the **University of California, Los Angeles (UCLA)**, advised by [Prof. Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/) and [Prof. Yuan Tian](https://www.ytian.info/). Before UCLA, I studied Computing at **The Hong Kong Polytechnic University**.
 
----
+My research focuses on **privacy-preserving large language models**, especially **differentially private retrieval-augmented generation (RAG)**, and on **human mobility modeling** from GPS trajectories with LLMs. I have also worked on **diffusion transformers** for synthetic trajectory generation.
 
-# Education
+<!-- # 🔥 News
+{: .section-header #news}
 
-### [University of California, Los Angeles](https://www.ucla.edu/)
-PhD student in Computer Science
+{% include news.html %} -->
+
+# 📝 Publications
+{: .section-header #publications}
+
+<p class="section-note">* equal contribution. See also my <a href="{{ site.author.googlescholar }}">Google Scholar</a> profile.</p>
+
+{% assign selected_pubs = site.publications | where: "selected", true | sort: "date" | reverse %}
+{% for post in selected_pubs %}
+  {% include publication-card.html %}
+{% endfor %}
+
+# 🎓 Education
+{: .section-header #education}
+
+- **[University of California, Los Angeles (UCLA)](https://www.ucla.edu/)**<br>Ph.D. in Computer Science
+- **[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)**<br>B.Sc. (Hons) Scheme in Computing
+- **[Chalmers University of Technology](https://www.chalmers.se/en/)**, Sweden<br>Exchange
+- **[University of Cambridge](https://www.cam.ac.uk/)**, United Kingdom<br>Summer School
+{: .edu-list}
+
+# 🏆 Honors and Awards
+{: .section-header #honors}
+
+- **2026** UCLA Doctoral Travel Grant
+- **2024** Adlerbert Foreign Student Hospitality Foundation Scholarship, Chalmers University of Technology
+- **2023/24** Wong Tit-shing Student Exchange Scholarship, HK PolyU
+- **2023** Best GBA Solution, [Cathay Hackathon 2023]({{ base_path }}/portfolio/portfolio-1/)
+- **2022/23** Dean's Honours List of Outstanding Students, HK PolyU
+{: .dated-list}
 
 
-### [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
-BSc (Hons) Scheme in Computing
-- Dean's Honours List of Outstanding Student in the 2022/23 Academic Year
-- Wong Tit-shing Student Exchange Scholarship in 2023/24
-- Best GBA Solution in Cathay Hackathon 2023
+# 💻 Teaching
+{: .section-header #teach}
 
+- **2026** TA of CEE 181/281 Traffic Engineering Systems, UCLA
+- **2023** Volunteer Teacher of Heartfire, HK PolyU
 
-### [Chalmers University of Technology, Sweden](https://www.chalmers.se/en/)
-Exchange Program
-- 2024 Adlerbert Foreign Student Hospitality Foundation Scholarship
+<!-- # 🎶 Miscellaneous
+- I am a musical enthusiast. I can sing all 46 songs of Broadway show Hamilton.  -->
 
+<!-- {: .dated-list .skills-list} -->
+<!-- # 💻 Skills
+{: .section-header #skills}
 
-### [University of Cambridge, the United Kingdom](https://www.cam.ac.uk/)
-Summer School
+- **Programming** Python, C++, Java, SQL, R, JavaScript, C
+- **ML / AI** Transformers, Diffusion Models, Diffusion Transformers (DiT), Neural Operators, PyTorch, TensorFlow
+- **LLM & Retrieval** Retrieval-Augmented Generation (RAG), Dense Passage Retrieval (DPR), LLM Evaluation
+- **Deployment** 4-bit Quantization (Hugging Face), ONNX, TensorRT
+{: .dated-list .skills-list} -->
 
----
-<!-- 
-# Selected Papers 
-Private-RAG: Answering Multiple Queries with LLMs while Keeping Your Data Private
-Ruihan Wu, Erchi Wang, *Zhiyuan Zhang*, Yu-Xiang Wang
-[COLM 2026](https://openreview.net/pdf?id=oenmsPGLM9)
-A multi-query DP-RAG framework with per-document privacy accounting that reduces the privacy budget by up to 100× compared to single-query DP composition, with improved utility.
----
--->
-
-
-# Skills
-**Programming**: Python, C++, Java, SQL, R, JavaScript, C
-
-**ML/AI**: Transformers, Diffusion Models, Diffusion Transformers (DiT), Neural Operators, PyTorch, TensorFlow
-
-**LLM & Retrieval**: Retrieval-Augmented Generation (RAG), Dense Passage Retrieval (DPR), LLM Evaluation
-
-**Model Optimization & Deployment**: 4-bit Quantization (Hugging Face), ONNX, TensorRT
+<p class="last-updated">Last updated: {{ site.time | date: "%B %Y" }}</p>

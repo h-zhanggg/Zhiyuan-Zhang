@@ -1,0 +1,36 @@
+{% include base_path %}
+
+{% assign link = post.paperurl | default: post.url %}
+
+<div class="pub-card">
+  {% if post.teaser %}
+    <a class="pub-card__media" href="{{ link }}">
+      <img src="{{ post.teaser | prepend: '/images/' | prepend: base_path }}" alt="{{ post.title | escape }}" loading="lazy">
+    </a>
+  {% endif %}
+
+  <div class="pub-card__body">
+    <h3 class="pub-card__title"><a href="{{ link }}">{{ post.title }}</a></h3>
+
+    {% if post.authors %}
+      <p class="pub-card__authors">{{ post.authors | replace: 'Zhiyuan Zhang', '<strong>Zhiyuan Zhang</strong>' }}</p>
+    {% endif %}
+
+    <p class="pub-card__venue">
+      {% if post.badge %}<span class="pub-card__badge" style="background-color: #{{ post.badge_color | default: '2774ae' }};">{{ post.badge }}</span>{% endif %}
+      <em>{{ post.venue }}</em>
+    </p>
+
+    {% if post.excerpt %}
+      <p class="pub-card__desc">{{ post.excerpt | strip_html | strip }}</p>
+    {% endif %}
+
+    <p class="pub-card__links">
+      {% if post.paperurl %}<a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-lines" aria-hidden="true"></i>Paper</a>{% endif %}
+      {% if post.arxivurl %}<a href="{{ post.arxivurl }}"><i class="ai ai-fw ai-arxiv" aria-hidden="true"></i>arXiv</a>{% endif %}
+      {% if post.codeurl %}<a href="{{ post.codeurl }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i>Code</a>{% endif %}
+      {% if post.slidesurl %}<a href="{{ post.slidesurl }}"><i class="fas fa-fw fa-person-chalkboard" aria-hidden="true"></i>Slides</a>{% endif %}
+      {% if post.bibtexurl %}<a href="{{ post.bibtexurl }}"><i class="fas fa-fw fa-quote-right" aria-hidden="true"></i>BibTeX</a>{% endif %}
+    </p>
+  </div>
+</div>
