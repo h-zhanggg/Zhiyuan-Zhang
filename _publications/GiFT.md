@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "GiFT"
 collection: publications
 category: preprints
@@ -9,4 +9,4 @@ excerpt: 'Gabor-Filtered Position-Focused Transformer for Neural Operator Learni
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; 1(3).'
 ---
-
+ -->
