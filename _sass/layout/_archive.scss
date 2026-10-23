@@ -248,3 +248,18 @@
     }
   }
 }
+
+
+/*
+   Portfolio
+   ========================================================================== */
+
+/* every portfolio image takes the size of portfolio-1's (500x300), cropping instead of stretching */
+.portfolio-list .archive__item img {
+  display: block;
+  width: 500px;
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 5 / 3;
+  object-fit: cover;
+}
