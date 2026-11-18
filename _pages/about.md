@@ -28,6 +28,10 @@ My research focuses on **privacy-preserving large language models**, especially 
   {% include publication-card.html %}
 {% endfor %}
 
+## Academic Service
+* **Journal Reviewer:** IEEE Open Journal of Intelligent Transportation Systems
+* **Conference Reviewer:** NeurIPS 2026
+
 # 🎓 Education
 {: .section-header #education}
 
@@ -53,6 +57,10 @@ My research focuses on **privacy-preserving large language models**, especially 
 
 - **2026** TA of CEE 181/281 Traffic Engineering Systems, UCLA
 - **2023** Volunteer Teacher of Heartfire, HK PolyU
+
+<!-- # Reviewer
+
+- IEEE Open Journal of Intelligent Transportation Systems -->
 
 <!-- # 🎶 Miscellaneous
 - I am a musical enthusiast. I can sing all 46 songs of Broadway show Hamilton.  -->
