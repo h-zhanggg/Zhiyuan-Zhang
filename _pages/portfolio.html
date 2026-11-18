@@ -9,11 +9,9 @@ author_profile: true
 
 
 <div class="portfolio-list">
-<!-- {% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %} -->
 {% assign items = site.portfolio | sort: "order" %}
 {% for post in items %}
-
+  {% include archive-single.html %}
+{% endfor %}
 </div>
 
